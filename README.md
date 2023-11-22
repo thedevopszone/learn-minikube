@@ -9,11 +9,12 @@
 7) Manage Minikube Cluster
    
 ## Prerequisites
-Minimal Installed RHEL 9 System
-Sudo User with Admin Rights
-Red Hat Subscriptions or locally Configured Repository
-Internet Connectivity
-Minimum 2 GB RAM or more
- 2 vCPUs or more
-20 GB Free Disk Space
+- Minimal Installed RHEL 9 System
+- Sudo User with Admin Rights
+- Red Hat Subscriptions or locally Configured Repository
+- Internet Connectivity
+- Minimum 2 GB RAM or more
+- 2 vCPUs or more
+- 20 GB Free Disk Space
 
+##
