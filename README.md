@@ -26,7 +26,7 @@ sudo dnf install -y podman
 
 Allow your local user to run podman commands with passwordless sudo
 ```
-echo "linuxtechi ALL=(ALL) NOPASSWD: /usr/bin/podman" | sudo tee /etc/sudoers.d/linuxtechi
+echo "tmundt ALL=(ALL) NOPASSWD: /usr/bin/podman" | sudo tee /etc/sudoers.d/tmundt
 
 # It should not prompt you to enter local user password
 sudo -k -n podman version
