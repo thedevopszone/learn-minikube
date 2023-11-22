@@ -7,7 +7,8 @@
 5) Manage Minikube Addons
 6) Test Kubernetes Cluster
 7) Manage Minikube Cluster
-   
+
+
 ## Prerequisites
 - Minimal Installed RHEL 9 System
 - Sudo User with Admin Rights
@@ -17,4 +18,4 @@
 - 2 vCPUs or more
 - 20 GB Free Disk Space
 
-##
+## 1) Install Podman
