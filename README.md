@@ -79,6 +79,8 @@ $ minikube addons list | grep -i -E "dashboard|ingress"
 To get Kubernetes dashboard url , run
 ```
 $ minikube dashboard --url
+
+minikube dashboard
 ```
 
 
